@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Tourist attraction place in Bangladesh</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet"type="text/css"href="style.css">
+<script type="text/javascript">
+function togglemenu(){
+document.getElementById('sidebar').classList.toggle('active');
+}
+</script>
+</head>
+<body>
+<div id="sidebar"onclick="togglemenu()">
+<div class="toggle-btn">
+<span></span>
+<span></span>
+<span></span>
+</div>
+<header>
+<nav>
+<ul>
+<li><a href="tourist attraction place.html">Tourist attraction place</a></li>
+<li><a href="hotel.html">Hotel</a></li>
+<li><a href="hospital.html">Hospital</a></li>
+<li><a href="doctors information.html">Doctors information</a></li>
+<li><a href="ambulance.html">Ambulance</a></li>
+<li><a href="pharmacy.html">Pharmacy</a></li>
+<li><a href="police station.html">Police station</a></li>
+<li><a href="transport system.html">Transport system</a></li>
+<li><a href="restaurent.html">Restaurent</a></li>
+<li><a href="shop.html">Shop</a></li>
+<li><a href="fire service.html">Fire service</a></li>
+</ul>
+</nav>
+</header>
+</div>
+</body>
+</html>

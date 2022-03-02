@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Tourist attraction place</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<center><h1><br>Police Stations at Dhaka city</br></h1></center>
+<center><h1><br>Shahbagh Police Station</br></h1></center>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d116854.98322706387!2d90.34866077582535!3d23.757425506484918!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x6093f6b0dca5ffae!2sShahbagh%20Police%20Station!5e0!3m2!1sen!2sbd!4v1568163090626!5m2!1sen!2sbd" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
+<h1><br>Contact Number:029676699</br></h1>
+<center><h1><br>New Market Police Station</br></h1></center>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d58431.032342777595!2d90.36745545929999!3d23.749535991379574!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3755b8c68228a72b%3A0xfa37ce862f3df3c1!2sNew%20Market%20Police%20Station!5e0!3m2!1sen!2sbd!4v1568163332696!5m2!1sen!2sbd" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
+<h1><br>Contact Number:028631942</br></h1>
+<center><h1><br>Pallabi Police Station</br></h1></center>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d29197.82958815807!2d90.34904817232213!3d23.82824459217358!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3755c1308d693a93%3A0x5f9841558f90479a!2sPallabi%20Police%20Station!5e0!3m2!1sen!2sbd!4v1568163459565!5m2!1sen!2sbd" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
+<h1><br>Contact Number:01713373190</br></h1>
+</body>
+</html>

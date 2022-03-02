@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Tourist attraction place</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<center><h1><br>Police Stations at Chittagong</br></h1></center>
+<h1><br>Sadarghat police station</br></h1>
+<h1>Strand Road:</h1>
+Chittagong,4000
+<h1>Phone:</h1>
+031631414
+</body>
+</html>
